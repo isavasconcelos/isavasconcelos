@@ -27,8 +27,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/isavasconcelos/isavasconcelos/output/snake.svg" alt="Snake animation" />
-
-###
