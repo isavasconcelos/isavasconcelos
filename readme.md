@@ -1,4 +1,5 @@
-<h2 align="left">Hello World! My name is Isa Vasconcelos.</h2>
+<h1 align="left">Hello World! My name is Isa Vasconcelos.</h1>
+<h2 align= "left">I'm a full stack developer, always studying to improve.</h2>
 
 ###
 
