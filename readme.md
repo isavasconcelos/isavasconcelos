@@ -1,43 +1,137 @@
 <div align="center">
-
- <img src="https://capsule-render.vercel.app/api?type=wavy&height=220&color=0:050505,50:2b0c42,100:000000&text=SISTEMA%20ONLINE%20v4.0.2&fontColor=b19cd9&fontSize=28&fontAlign=50&fontAlignY=40&desc=STATUS:%20OPERACIONAL%20|%20IA%20CORE%20ATIVO&descSize=14&descColor=da70d6&animation=fadeIn" width="100%" />
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&width=600&lines=Initializing+Neural+Network...;Accessing+Mainframe...;Hello,+World!+I+am+a+Software+Developer.;Welcome+to+my+Digital+Realm." alt="Typing Animation" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/STATUS-SECURE-00ffcc?style=for-the-badge&logo=cyberdefenders&logoColor=00ffcc" alt="Status" />
-  <img src="https://img.shields.io/badge/CORE-SYNCHRONIZED-7928ca?style=for-the-badge&logo=python&logoColor=fff" alt="Core" />
-  <img src="https://img.shields.io/badge/SECURITY-LEVEL_5-ff007f?style=for-the-badge&logo=letsencrypt&logoColor=fff" alt="Security" />
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A855F7&center=true&vcenter=true&width=650&lines=SYSTEM.INIT();+PROFILE_LOADED...;WELCOME+TO+MY+NEURAL+NETWORK;FULL-STACK+%2B+CYBERPUNK+INTERFACE" alt="Typing Animation" />
 </div>
----
 
-## 🤖 // [ 01. INTRODUÇÃO AO SISTEMA ]
-
-```bash
-> root@matrix:~# whoami
-> Initializing user profile database...
-> [LOADED] Full-stack Engineer, AI Enthusiast, and System Architect.
-> [STATUS] Bridging the gap between human logic and machine intelligence.
-
-## 💻 // [ 02. HARDWARE & SKILLS (TECNOLOGIAS) ]
-
-> Aqui estão os módulos e linguagens carregados no meu sistema neural:
+<br />
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=JARVIS%20INTERFACE%20v2.0&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
+</div>
 
-| Módulo / Categoria | Tecnologias Ativas | Status do Driver |
-| :--- | :--- | :--- |
-| **Linguagens Base** | `C`, `JavaScript` | `[ONLINE]` |
-| **Frontend Core** | `HTML5`, `CSS3`, `React` | `[ONLINE]` |
-| **Ecossistema & Ferramentas** | *Insira outras tecnologias aqui* | `[STANDBY]` |
+<div align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=000000&color=A855F7" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=000000&color=A855F7" alt="GitHub" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A855F7&labelColor=000000&color=A855F7" alt="Email" />
+  </a>
+</div>
 
-<br>
+<br />
 
-<!-- Ícones visuais rápidos das techs principais -->
-<img src="https://skillicons.dev/icons?i=c,js,html,css,react" alt="Minhas Techs" />
+---
 
+### 🤖 // [ 01. SOBRE O SISTEMA ]
+
+```bash
+root@matrix:~# cat user_profile.json
+{
+  "developer": "Seu Nome",
+  "role": "Full-Stack Engineer & System Architect",
+  "status": "Online & Operacional",
+  "core_focus": "Front-End Interativo, Inteligência Artificial, Lógica de Baixo Nível",
+  "location": "Brasil"
+}
+```
+
+> **[STATUS DA MATRIZ]** Conectando a lógica humana com a arquitetura de sistemas para construir soluções dinâmicas, limpas e de alto impacto visual.
+
+<br />
+
+---
+
+### ⚙️ // [ 02. HARDWARE & SKILLS (TECNOLOGIAS) ]
+
+<p align="center">
+  <b>FRONTEND CORE</b><br />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=A855F7" />
+</p>
+
+<p align="center">
+  <b>BACKEND & LOW LEVEL</b><br />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=A855F7" />
+</p>
+
+<p align="center">
+  <b>FERRAMENTAS & DESIGN</b><br />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7" />
+</p>
+
+<br />
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,nodejs,py,git,figma,vscode&theme=dark" alt="Skill Icons" />
+</div>
+
+<br />
+
+---
+
+### 📡 // [ 03. METRICAS & TROFÉUS DO NÚCLEO ]
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=synthwave&bg_color=000000&title_color=A855F7&text_color=ffffff&icon_color=A855F7&border_color=8B5CF6&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=synthwave&bg_color=000000&title_color=A855F7&text_color=ffffff&icon_color=A855F7&border_color=8B5CF6&hide_border=false" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=synthwave&background=000000&title=A855F7&sidei=A855F7&dates=ffffff&border=8B5CF6&hide_border=false" alt="Streak Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=react-dark&bg_color=000000&color=A855F7&line=8B5CF6&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+---
+
+### 🚀 // [ 04. PROJETOS EM DESTAQUE ]
+
+| Projeto | Descrição | Status | Link |
+| :--- | :--- | :---: | :---: |
+| **🤖 Cyber-System** | Interface futurista inspirada em IA e dashboards sci-fi. | `ONLINE` | [Ver Repositório](https://github.com/SEU_USUARIO_GITHUB) |
+| **⚡ Next-Gen Web** | Componentes interativos com animações e UI responsiva. | `DEPLOYED` | [Ver Repositório](https://github.com/SEU_USUARIO_GITHUB) |
+| **🧠 Neural Engine** | Módulo de automação de dados e lógica algorítmica. | `BUILDING` | [Ver Repositório](https://github.com/SEU_USUARIO_GITHUB) |
+
+<br />
+
+---
+
+### 🕹️ // [ 05. MATRIZ DE CONTRIBUIÇÕES (SNAKE ENGINE) ]
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Grid" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<br />
+
+---
+
+<div align="center">
+  <sub>JARVIS OS v2.0 // POWERED BY PURPLE & BLACK MATRIX // ALL SYSTEMS OPERATIONAL</sub>
 </div>
