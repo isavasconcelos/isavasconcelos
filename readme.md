@@ -1,12 +1,14 @@
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=JARVIS%20INTERFACE%20v2.0&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A855F7&center=true&vcenter=true&width=650&lines=HELLO+WORLD!;+PROFILE_LOADED...;WELCOME+TO+MY+WORLD!;FRONT-END+DEVELOPER" alt="Typing Animation" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=JARVIS%20INTERFACE%20v2.0&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
-</div>
 
 <div align="center">
   <a href="[https://linkedin.com](https://www.linkedin.com/in/isabela-vasconcelos-bb0605305?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
