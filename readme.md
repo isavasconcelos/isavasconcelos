@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=JARVIS%20INTERFACE%20v2.0&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=ISABELA%20VASCONCELOS%20&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner"/>
 </div>
 
 <div align="center">
