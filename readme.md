@@ -56,13 +56,11 @@ root@matrix:~# cat user_profile.json
 <p align="center">
   <b>BACKEND & LOW LEVEL</b><br />
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A855F7" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=A855F7" />
 </p>
 
 <p align="center">
   <b>FERRAMENTAS & DESIGN</b><br />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=A855F7" />
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7" />
 </p>
@@ -70,7 +68,7 @@ root@matrix:~# cat user_profile.json
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,nodejs,py,git,figma,vscode&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,py,figma,vscode&theme=dark" alt="Skill Icons" />
 </div>
 
 <br />
@@ -80,8 +78,8 @@ root@matrix:~# cat user_profile.json
 ### 📡 // [ 03. METRICAS & TROFÉUS DO NÚCLEO ]
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=synthwave&bg_color=000000&title_color=A855F7&text_color=ffffff&icon_color=A855F7&border_color=8B5CF6&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=synthwave&bg_color=000000&title_color=A855F7&text_color=ffffff&icon_color=A855F7&border_color=8B5CF6&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isavasconcelos&show_icons=true&theme=synthwave&bg_color=000000&title_color=A855F7&text_color=ffffff&icon_color=A855F7&border_color=8B5CF6&hide_border=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isavasconcelos&layout=compact&theme=synthwave&bg_color=000000&title_color=A855F7&text_color=ffffff&icon_color=A855F7&border_color=8B5CF6&hide_border=false" />
 </div>
 
 <br />
