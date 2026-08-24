@@ -26,9 +26,6 @@
 
 ---
 
-<br />
-
----
 
 ###  HARDWARE & SKILLS 
 
@@ -62,10 +59,6 @@
 
 ---
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isavasconcelos&show_icons=true&theme=synthwave&bg_color=000000&title_color=A855F7&text_color=ffffff&icon_color=A855F7&border_color=8B5CF6&hide_border=false" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isavasconcelos&layout=compact&theme=synthwave&bg_color=000000&title_color=A855F7&text_color=ffffff&icon_color=A855F7&border_color=8B5CF6&hide_border=false" />
-</div>
 
 <br />
 
@@ -81,11 +74,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isavasconcelos&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
-</div>
-
-<br />
 
 ---
 <!-- 
