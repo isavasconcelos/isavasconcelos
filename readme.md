@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/isabela-vasconcelos-bb0605305?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
+  <a href="https://www.linkedin.com/in/isabela-vasconcelos-bb0605305?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=000000&color=A855F7" alt="LinkedIn" />
   </a>
   <a href="https://github.com">
