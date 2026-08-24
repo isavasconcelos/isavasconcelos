@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A855F7&center=true&vcenter=true&width=650&lines=SYSTEM.INIT();+PROFILE_LOADED...;WELCOME+TO+MY+NEURAL+NETWORK;FULL-STACK+%2B+CYBERPUNK+INTERFACE" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A855F7&center=true&vcenter=true&width=650&lines=HELLO+WORLD!;+PROFILE_LOADED...;WELCOME+TO+MY+WORLD!;FRONT-END+DEVELOPER" alt="Typing Animation" />
 </div>
 
 <br />
@@ -9,13 +9,13 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/isabela-vasconcelos-bb0605305?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=000000&color=A855F7" alt="LinkedIn" />
   </a>
   <a href="https://github.com">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=000000&color=A855F7" alt="GitHub" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:isaavasconceloos@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A855F7&labelColor=000000&color=A855F7" alt="Email" />
   </a>
 </div>
@@ -105,7 +105,7 @@ root@matrix:~# cat user_profile.json
 <br />
 
 ---
-
+<!-- 
 ### 🚀 // [ 04. PROJETOS EM DESTAQUE ]
 
 | Projeto | Descrição | Status | Link |
@@ -117,20 +117,8 @@ root@matrix:~# cat user_profile.json
 <br />
 
 ---
+-->
 
-### 🕹️ // [ 05. MATRIZ DE CONTRIBUIÇÕES (SNAKE ENGINE) ]
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isavasconcelos/isavasconcelos/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isavasconcelos/isavasconcelos/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Contribution Grid" src="https://raw.githubusercontent.com/isavasconcelos/isavasconcelos/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br />
-
----
 
 <div align="center">
   <sub>JARVIS OS v2.0 // POWERED BY PURPLE & BLACK MATRIX // ALL SYSTEMS OPERATIONAL</sub>
