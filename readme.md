@@ -13,7 +13,6 @@
 </p>
 
 </div>
-
 ---
 
 ## 🤖 // [ 01. INTRODUÇÃO AO SISTEMA ]
@@ -24,17 +23,21 @@
 > [LOADED] Full-stack Engineer, AI Enthusiast, and System Architect.
 > [STATUS] Bridging the gap between human logic and machine intelligence.
 
-{
-  "status": "in_progress",
-  "mission": "Evolving development parameters",
-  "objectives": [
-    "Mastering advanced distributed systems and micro-services architecture",
-    "Contributing actively to open-source AI and security tools",
-    "Deepening knowledge in Rust and WebAssembly optimization"
-  ],
-  "target": "Building the next generation of web utilities."
-}
+## 💻 // [ 02. HARDWARE & SKILLS (TECNOLOGIAS) ]
 
-+-----------------------------------------------------------------+
-|               CONNECTION CLOSED SECURELY - 2026                 |
-+-----------------------------------------------------------------+
+> Aqui estão os módulos e linguagens carregados no meu sistema neural:
+
+<div align="center">
+
+| Módulo / Categoria | Tecnologias Ativas | Status do Driver |
+| :--- | :--- | :--- |
+| **Linguagens Base** | `C`, `JavaScript` | `[ONLINE]` |
+| **Frontend Core** | `HTML5`, `CSS3`, `React` | `[ONLINE]` |
+| **Ecossistema & Ferramentas** | *Insira outras tecnologias aqui* | `[STANDBY]` |
+
+<br>
+
+<!-- Ícones visuais rápidos das techs principais -->
+<img src="https://skillicons.dev/icons?i=c,js,html,css,react" alt="Minhas Techs" />
+
+</div>
