@@ -62,11 +62,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isavasconcelos&theme=synthwave&background=000000&title=A855F7&sidei=A855F7&dates=ffffff&border=8B5CF6&hide_border=false" alt="Streak Stats" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isavasconcelos&theme=react-dark&bg_color=000000&color=A855F7&line=8B5CF6&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph" />
