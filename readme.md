@@ -26,26 +26,11 @@
 
 ---
 
-### 🤖 // [ 01. SOBRE O SISTEMA ]
-
-```bash
-root@matrix:~# cat user_profile.json
-{
-  "developer": "Seu Nome",
-  "role": "Full-Stack Engineer & System Architect",
-  "status": "Online & Operacional",
-  "core_focus": "Front-End Interativo, Inteligência Artificial, Lógica de Baixo Nível",
-  "location": "Brasil"
-}
-```
-
-> **[STATUS DA MATRIZ]** Conectando a lógica humana com a arquitetura de sistemas para construir soluções dinâmicas, limpas e de alto impacto visual.
-
 <br />
 
 ---
 
-### ⚙️ // [ 02. HARDWARE & SKILLS (TECNOLOGIAS) ]
+###  HARDWARE & SKILLS 
 
 <p align="center">
   <b>FRONTEND CORE</b><br />
@@ -76,8 +61,6 @@ root@matrix:~# cat user_profile.json
 <br />
 
 ---
-
-### 📡 // [ 03. METRICAS & TROFÉUS DO NÚCLEO ]
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=isavasconcelos&show_icons=true&theme=synthwave&bg_color=000000&title_color=A855F7&text_color=ffffff&icon_color=A855F7&border_color=8B5CF6&hide_border=false" />
@@ -120,6 +103,4 @@ root@matrix:~# cat user_profile.json
 -->
 
 
-<div align="center">
-  <sub>JARVIS OS v2.0 // POWERED BY PURPLE & BLACK MATRIX // ALL SYSTEMS OPERATIONAL</sub>
-</div>
+
