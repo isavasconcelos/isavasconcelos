@@ -87,19 +87,19 @@ root@matrix:~# cat user_profile.json
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=synthwave&background=000000&title=A855F7&sidei=A855F7&dates=ffffff&border=8B5CF6&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isavasconcelos&theme=synthwave&background=000000&title=A855F7&sidei=A855F7&dates=ffffff&border=8B5CF6&hide_border=false" alt="Streak Stats" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=react-dark&bg_color=000000&color=A855F7&line=8B5CF6&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isavasconcelos&theme=react-dark&bg_color=000000&color=A855F7&line=8B5CF6&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isavasconcelos&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -122,9 +122,9 @@ root@matrix:~# cat user_profile.json
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Contribution Grid" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isavasconcelos/isavasconcelos/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isavasconcelos/isavasconcelos/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Contribution Grid" src="https://raw.githubusercontent.com/isavasconcelos/isavasconcelos/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
