@@ -58,16 +58,7 @@
 <br />
 
 ---
-<br />
 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isavasconcelos&theme=react-dark&bg_color=000000&color=A855F7&line=8B5CF6&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph" />
-</div>
-
-<br />
-
----
 <!-- 
 ### 🚀 // [ 04. PROJETOS EM DESTAQUE ]
 
